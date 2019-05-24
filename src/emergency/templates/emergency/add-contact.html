@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static %}
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static "/sources/css/form.css" %}" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+      crossorigin="anonymous"
+    />
+  </head>
+  <header>
+    <p>Emergency Contacts</p>
+    <hr />
+  </header>
+
+  <body>
+    <div class="container">
+      <form action="{% url "emergency:added" %}">
+        <p>
+          Name
+        </p>
+        <input type="text" name="name" placeholder="John Doe" />
+        <p>
+          Phone no
+        </p>
+
+        <input type="text" name="phone" placeholder=" +1 2345 56787 " />
+
+        <span>
+          <input class="send" type="submit" value="Submit" />
+          <i class="addNew fas fa-plus-circle fa-rotate-90"></i>
+        </span>
+      </form>
+    </div>
+  </body>
+</html>

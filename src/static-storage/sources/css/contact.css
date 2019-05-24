@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "Segoe UI";
+  src: url("../fonts/SEGOEUI.TTF");
+}
+
+@font-face {
+  font-family: "Segoe Print";
+  src: url("../fonts/segoepr.ttf");
+}
+
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+header {
+  font-family: "Segoe UI";
+  font-size: 1.75rem;
+  text-align: center;
+}
+
+header > p {
+  margin: 0;
+  padding: 1rem;
+  color: #f07064;
+  font-weight: 600;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  margin: 1.75rem;
+}
+
+.label-text {
+  font-family: "Roboto";
+  font-size: 1.5rem;
+  text-align: center;
+  color: #3d3d3d;
+  font-weight: 600;
+}
+
+textarea {
+  width: 98%;
+  height: 10rem;
+  border-radius: 2px;
+  resize: none;
+  border: 1px solid #f07064;
+  font-family: "Lato";
+  font-size: 1.35rem;
+  color: #4e4e4e;
+}
+
+.container .tip {
+  font-family: "Segoe Print";
+  color: #575656;
+  text-align: center;
+  font-size: 1.1rem;
+  margin-top: 2rem;
+  position: relative;
+}
+
+.arrow {
+  margin-left: 8rem;
+  height: 20rem;
+}
+
+
+
+.addNew {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  color: #f07064;
+  font-size: 3rem;`
+}
+
+
+hr {
+  width: 50%;
+  border: 2px solid #f07064;
+}
+
+.contact-name {
+  background: #f07064;
+  padding: 0.5rem;
+  border-radius: 2px;
+  margin-top: 1.5rem;
+  font-family: 'Segoe UI';
+  color: white;
+  font-size: 1.45rem;
+  font-weight:100;
+}
+
+span
+{
+    position: absolute;
+    right:3rem;
+}

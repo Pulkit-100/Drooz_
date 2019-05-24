@@ -1,0 +1,427 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"home",
+				"home_view"
+			],
+			[
+				"Req",
+				"RequestFormAttachMixin"
+			],
+			[
+				"get",
+				"get_college_name"
+			],
+			[
+				"ob",
+				"object_list"
+			],
+			[
+				"Event",
+				"EventModelForm"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"User",
+				"UserOwnerMixin"
+			],
+			[
+				"Create",
+				"CreateView"
+			],
+			[
+				"Po",
+				"PostModelForm"
+			],
+			[
+				"de",
+				"post_detail_view"
+			],
+			[
+				"Post",
+				"PostListView"
+			],
+			[
+				"chall",
+				"challans"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"T",
+				"TEMPLATES"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Bharat Khurana/Desktop/Dev/WordPlay/README.md",
+			"settings":
+			{
+				"buffer_size": 47,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Bharat Khurana/Desktop/Dev/FakeNews_Detection/README.md",
+			"settings":
+			{
+				"buffer_size": 2181,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pretti",
+				"JsPrettier: Format Code"
+			],
+			[
+				"forma",
+				"JsPrettier: Format Code"
+			],
+			[
+				"prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Install Package Control"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Bharat Khurana/Desktop/hackjiit"
+	],
+	"file_history":
+	[
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/drowsiness/views.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/emergency/views.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/emergency/urls.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/emergency/templates/emergency/add-contact.html",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/emergency/templates/emergency/added-contacts.html",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/emergency/templates/emergency/home.html",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/templates/index.html",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/templates/view.html",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/static-storage/sources/css/index.css",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/emergency/models.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/emergency/admin.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/emergency/forms.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/hackjiit/urls.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/hackjiit/settings.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/emergency/mixins.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/drowsiness/forms.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/hackjiit/views.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/templates/your_template.html",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/drowsiness/models.py",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/drowsiness/templates/view.html",
+		"/C/Users/Bharat Khurana/Desktop/hackjiit/src/drowsiness/detect_drowsiness.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/evento/settings/local.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/accounts/forms.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/templates/events/navbar.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/accounts/templates/accounts/register.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/accounts/templates/accounts/login.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/views.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/mixins.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/templates/events/add_event.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/Nitin/evento/mynewevent.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/templates/events/list_view.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/templates/events/myevents_view.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/templates/events/myevents.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/urls.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/templates/index.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/evento/urls.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/Nitin/searched.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/models.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/validations.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/evento/wsgi.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/forms.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/templates/events/create_view_temp.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/templates/events/create_view.html",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/events/admin.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/evento/views.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/evento/settings/production.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/evento/settings/__init__.py",
+		"/C/Users/Bharat Khurana/Desktop/Evento/src/evento/settings/base.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/validations.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/templates/posts/delete_view.html",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/models.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/views.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/tweetme/urls.py",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/Lib/site-packages/django/forms/boundfield.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/urls.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/templates/posts/update_view.html",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/templates/posts/create_view.html",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/templates/posts/form.html",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/mixins.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/templates/posts/update_view.htmls",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/forms.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/admin.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/templates/posts/detail_view.html",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/templates/posts/list_view.html",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/posts/url.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/tweetme/settings/local.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/tweetme/views.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/templates/home.html",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/tweetme/settings/__init__.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/tweetme/settings/production.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/src/tweetme/settings/base.py",
+		"/C/Users/Bharat Khurana/Dev/me3m/me3m",
+		"/D/ML/Indian-Number-Plate-Recognition-System-master/Indian-Number-Plate-Recognition-System-master/tutorial.db",
+		"/C/Users/Bharat Khurana/Desktop/hack_KIET/main.py",
+		"/D/ML/Indian-Number-Plate-Recognition-System-master/Indian-Number-Plate-Recognition-System-master/main.py",
+		"/D/ML/audio-siren-detection-master/audio-siren-detection-master/Siren Detection Data.xlsx",
+		"/C/Users/Bharat Khurana/Desktop/primes.txt",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/products/form.py",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/trydjango/urls.py",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/products/views.py",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/products/Templates/products/creat2.html",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/products/Templates/products/create.html",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/products/Templates/products/detail.html",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/products/models.py",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/products/products/detail.html",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/Templates/products/detail.html",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/Templates/about.html",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/Templates/home.html",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/Pages/views.py",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/Templates/base.html",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/Templates/nav.html",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/trydjango/settings.py",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/products/admin.py",
+		"/C/Users/Bharat Khurana/Dev/TryDjango/src/manage.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Bharat Khurana\\Desktop\\hackjiit"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Bharat Khurana/Desktop/Dev/WordPlay/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Bharat Khurana/Desktop/Dev/FakeNews_Detection/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2164,
+								2164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 786.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

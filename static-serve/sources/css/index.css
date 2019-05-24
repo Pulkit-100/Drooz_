@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Segoe UI";
+  src: url("../fonts/SEGOEUI.TTF");
+}
+
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+.container {
+  text-align: center;
+  font-family: "Roboto";
+}
+
+.title {
+  margin-bottom: 0;
+  font-family: "Segoe UI";
+  margin-top: 12rem;
+  font-size: 5rem;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.activate {
+  font-size: 1.25rem;
+  border-radius: 50px;
+  border: none;
+  padding: 1rem 2.5rem;
+  margin-bottom: 1rem;
+  background: #69ce87;
+  color: white;
+  font-weight: 500;
+}
+
+.deactivate {
+  font-size: 1.25rem;
+  border-radius: 50px;
+  border: none;
+  padding: 1rem 1.5rem;
+  margin-bottom: 1rem;
+  background: #696969;
+  color: white;
+  font-weight: 500;
+}
+
+.emergency {
+  font-size: 1rem;
+  border-radius: 50px;
+  border: none;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background: #efefef;
+  color: #585858;
+}
+
+body {
+  background-image: url("../images/background.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tagline {
+  font-size: 1.5rem;
+  font-family: "Segoe print", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  margin-bottom: 5rem;
+}
